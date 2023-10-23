@@ -1,16 +1,33 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=80&section=header&fontSize=90&)
+Debugging principle:
 
-<!--
-**a7a7-7/a7a7-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Who?
 
-Here are some ideas to get you started:
+When?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What line?
+
+What?
+
+How?
+
+Why..
+
+Most using language
+  - ~~English~~
+  - ~~korean~~
+  - c or c++
+  - assembly
+
+Ages : 15 or 13
+
+Black eye about Web
+
+~~＼('ω '＼)SAN値！(／' ω')／ピンチ！＼('ω '＼)SAN値！(／' ω')／ピンチ！＼('ω '＼)SAN値！(／' ω')／ピンチ！＼('ω '＼)SAN値！(／' ω')／ピンチ！＼('ω '＼)SAN値！(／' ω')／ピンチ！＼('ω '＼)SAN値！(／' ω')／ピンチ！~~
+
+~~Somewhere in Nevada~~
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x000000EF-0x000000EF)
+
+
+[Something](https://www.youtube.com/watch?v=xvFZjo5PgG0).
