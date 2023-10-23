@@ -23,9 +23,7 @@ Ages : 15 or 13
 
 Black eye about Web
 
-~~＼('ω '＼)SAN値！(／' ω')／ピンチ！＼('ω '＼)SAN値！(／' ω')／ピンチ！＼('ω '＼)SAN値！(／' ω')／ピンチ！＼('ω '＼)SAN値！(／' ω')／ピンチ！＼('ω '＼)SAN値！(／' ω')／ピンチ！＼('ω '＼)SAN値！(／' ω')／ピンチ！~~
-
-~~Somewhere in Nevada~~
+Have a nice day!!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x000000EF-0x000000EF)
 
