@@ -25,7 +25,7 @@ Black eye about Web
 
 Have a nice day!!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x000000EF-0x000000EF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7a7-7)
 
 
 [Something](https://www.youtube.com/watch?v=xvFZjo5PgG0).
