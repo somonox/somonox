@@ -7,8 +7,8 @@
 **Enjoy PS and Making something!** <br>
 **My language stack** <br>
 C++, Python, Go, JavaScript(TypeScript), HTML/CSS <br>
-Currently BOJ Gold V <br>
-Never stops learning! <br>
+**Currently BOJ Gold V** <br>
+**Never stops learning!** <br>
 
 ### My Main projects
 
@@ -18,7 +18,7 @@ Never stops learning! <br>
 | **BOJ**                    | Baekjoon Online Judge PS codes            | C++ or Assembly                            |
 | **salmOS**                 | Light and Fast Operating System              | Assembly                     |
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=somonox&show_icons=true&theme=transparent" alt="stats"/>
@@ -26,7 +26,7 @@ Never stops learning! <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somonox&layout=compact&hide=html,css&theme=transparent" alt="langs"/>
 </p>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2b%2b\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
