@@ -14,7 +14,7 @@ C++, Python, Go, JavaScript(TypeScript), HTML/CSS <br>
 
 | Project                    | Description                                  | Technology                         |
 | -------------------------- | -------------------------------------------- | ------------------------------ |
-| **ASTER**                  | 리눅스 서버를 위한 DoS 시뮬레이션/보안 테스트 툴                | C++, Raw Socket                |
+| **ASTER**                  | DDos testing tool for server management                | C++, Raw Socket                |
 | **BOJ**                    | Baekjoon Online Judge PS codes            | C++ or Assembly                            |
 | **salmOS**                 | Light and Fast Operating System              | Assembly                     |
 
