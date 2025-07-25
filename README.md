@@ -4,11 +4,11 @@
 
 ### Hello there, I'm somonox! 👋
 
-**Enjoy PS and Making something!**
-**My language stack**
-C++, Python, Go, JavaScript(TypeScript), HTML/CSS
-Currently BOJ Gold V
-Never stops learning!
+**Enjoy PS and Making something!** <br>
+**My language stack** <br>
+C++, Python, Go, JavaScript(TypeScript), HTML/CSS <br>
+Currently BOJ Gold V <br>
+Never stops learning! <br>
 
 ### My Main projects
 
