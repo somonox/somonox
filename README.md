@@ -1,7 +1,5 @@
-<img src="header.png"  width="1920" height="200"/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/somonox/somonox/main/assets/header.png" width="100%" alt="banner"/>
+  <img src="header.png"  width="1920" height="200"/>
 </p>
 
 ### Hello there, I'm somonox! 👋
