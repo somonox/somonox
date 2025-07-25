@@ -1,1 +1,1 @@
-<img src="header.png"  width="1920" height="400"/>
+<img src="header.png"  width="1920" height="250"/>
